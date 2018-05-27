@@ -1,9 +1,9 @@
 /* Theme */
 
-main {
+/*main {
 	background: #FFFFFF;
 	color: #000000;
-}
+}*/
 
 .icons-social a {
 	color: #000000;
@@ -11,4 +11,20 @@ main {
 
 .icons-social a svg path{
 	fill: #000000;
+}
+
+
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -ms-filter: blur(5px);
+  -o-filter: blur(5px);
+  filter: blur(5px);
 }
