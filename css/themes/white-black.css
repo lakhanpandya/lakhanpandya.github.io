@@ -1,9 +1,9 @@
 /* Theme */
 
-/*main {
-	background: #FFFFFF;
+main {
+	/*background: #000000;*/
 	color: #000000;
-}*/
+}
 
 .icons-social a {
 	color: #000000;
@@ -12,7 +12,6 @@
 .icons-social a svg path{
 	fill: #000000;
 }
-
 
 #bg {
   position: fixed; 
